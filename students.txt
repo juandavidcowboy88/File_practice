@@ -1,3 +1,3 @@
-juan ,cl33 ,12,23,12
-asdjf,asd,asd,asd,asd
-123,123,13,13,1123
+juan david alvarez,cll 43#21-26 ,2693000, juan@gmail.com,M
+jose cadavid,cll 23#12-22,2434323,jose@gmail.com,M
+juliana levant ,cll 34#12-32,2345876,juli@gmail.com,F
